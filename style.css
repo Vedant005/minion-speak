@@ -1,11 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 :root{
-    --primary:#0e91f4;
+    --primary:#d8e8f5;
 }
 
-.container{
- margin:auto;
+nav{
+    display: block;
 
+}
+main{
+    background-color:var(--primary);
 }
 
     body{
@@ -49,15 +52,15 @@ textarea {
 #btn-translate{
    
     margin: 2rem 20rem;
-    width: 50%
-    
+    width: 50%;
+    height: 5vh;
    
 
 }
 #pre-result{
   
  
-    margin: 2rem 30rem;
+    margin: 2rem 35rem;
     width: 20%
   
 }
@@ -67,19 +70,30 @@ textarea {
 #output {
     margin: auto;
     border: 1px solid black;
-    height: 20vh;
-    width: 90%;
+    height: 10vh;
+    width: 80%;
     resize: auto;
     padding: 1rem; 
-   background-color: antiquewhite;
+   background-color: rgb(246, 244, 241);
     font-size: 1.5rem;
+    margin-bottom: 1 rem;
 }
 
 footer{
     text-align: center;
     padding: 1rem;
      font-size:larger;
-    margin-top: 1rem;
+    margin-top: 0.5 rem;
 
+
+}
+
+.link{
+    text-decoration: none;
+    color:black;
+    padding:0rem 1rem;
+    background-color: aqua;
+    border-radius:0.5rem;
+    
 }
 
