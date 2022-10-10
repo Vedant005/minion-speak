@@ -7,6 +7,6 @@ A fun app to know the language of minions.
 3)JAVASCRIPT
 
 # APP LIVE LINK:
-
+https://minion-speak01.netlify.app/
 
 # SCREENSHOT
