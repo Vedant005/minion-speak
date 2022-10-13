@@ -9,4 +9,4 @@ A fun app to know the language of minions.
 # APP LIVE LINK:
 https://minion-speak01.netlify.app/
 
-# SCREENSHOT
+# SCREENSHOt
